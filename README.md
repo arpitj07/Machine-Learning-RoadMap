@@ -6,7 +6,7 @@ Machine learning (ML) is the scientific study of algorithms and statistical mode
  
  <details> 
  <summary> 
- <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;**Types of Machine Learning Algorithms**</a> 
+ <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Types of Machine Learning Algorithms</a> 
  </summary>
   
   - **Supervised learning**
