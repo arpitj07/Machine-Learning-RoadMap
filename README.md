@@ -9,16 +9,16 @@ Machine learning (ML) is the scientific study of algorithms and statistical mode
  <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Types of Machine Learning Algorithms</a> 
  </summary>
   
-  - **Supervised learning**
+  - [**Supervised learning**](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/README.md#supervised-learning)
     - Nearest Neighbor
     - Naive Bayes
     - Decision Trees
     - Linear Regression
     - Support Vector Machines (SVM)
     - Neural Networks
-  - **Unsupervised Learning**
-  - **Semi-supervised Learning**
-  - **Reinforcement Learning**
+  - [**Unsupervised Learning**](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/README.md#unsupervised-learning)
+  - [**Semi-supervised Learning**](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/README.md#semi-supervised-learning)
+  - [**Reinforcement Learning**](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/README.md#reinforcement-learning)
     - Q-Learning
     - Temporal Difference (TD)
     - Deep Adversarial Networks
