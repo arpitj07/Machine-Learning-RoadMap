@@ -10,12 +10,12 @@ Machine learning (ML) is the scientific study of algorithms and statistical mode
  </summary>
   
   - **Supervised learning**
-  > Nearest Neighbor
-  > Naive Bayes
-  > Decision Trees
-  > Linear Regression
-  > Support Vector Machines (SVM)
-  > Neural Networks
+    - Nearest Neighbor
+    - Naive Bayes
+    - Decision Trees
+    - Linear Regression
+    - Support Vector Machines (SVM)
+    - Neural Networks
   - **Unsupervised Learning**
   - **Semi-supervised Learning**
   - **Reinforcement Learning**
