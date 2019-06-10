@@ -102,7 +102,7 @@ In order to produce intelligent programs (also called agents), reinforcement lea
 ### Overfitting [[Here](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)]
 
 
-- _**Preventing Overfitting**_ [[Here]((https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)]
+- **Preventing Overfitting**[[Here](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)]
 )]
   - **L1 and L2 Regularizations**
 
@@ -131,6 +131,6 @@ In order to produce intelligent programs (also called agents), reinforcement lea
  
     The graph below shows the change in accuracy values calculated on the test and cross-validation sets during subsequent iterations of learning process. We see right away that the model we get at the end is not the best we could have possibly create. To be honest, it is much worse than what we have had after 150 epochs. Why not interrupt the learning process before the model starts overfitting? This observation inspired one of the popular overfitting reduction method, namely early stopping.
     
-    ![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/DropOut.gif)
+    ![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/EarlyStopping.gif)
   
     In practice, it is very convenient to sample our model every few iterations and check how well it works with our validation set. Every model that performs better than all the previous models is saved. We also set a limit, i.e. the maximum number of iterations during which no progress will be recorded. When this value is exceeded, the learning is stopped. Although early stopping allows for a significant improvement in the performance of our model, in practice, its application greatly complicates the process of optimization of our model. It is simply difficult to combine with other regular techniques.
