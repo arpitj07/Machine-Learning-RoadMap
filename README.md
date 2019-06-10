@@ -110,7 +110,7 @@ In order to produce intelligent programs (also called agents), reinforcement lea
 
     In most cases the use of L1 is preferable, because it reduces the weight values of less important features to zero, very often eliminating them completely from the calculations. In a way, it is a built-in mechanism for automatic featur selection. Moreover, L2 does not perform very well on datasets with a large number of outliers. The use of value squares results in the model minimizing the impact of outliers at the expense of more popular examples.
 
-         ![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/L1_L2_Regularisation.gif)
+       ![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/L1_L2_Regularisation.gif)
 
   - **Lambda factor and its effect**
  
