@@ -101,13 +101,20 @@ In order to produce intelligent programs (also called agents), reinforcement lea
 
 ### Overfitting [[Here](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)]
 
-- **L1 and L2 Regularizations**
 
-One of the first methods we should try when we need to reduce overfitting is regularisation. It involves adding an extra element to the loss function, which punishes our model for being too complex or, in simple words, for using too high values in the weight matrix. This way we try to limit its flexibility, but also encourage it to build solutions based on multiple features. Two popular versions of this method are L1 - Least Absolute Deviations (LAD) and L2 - Least Square Errors (LS). Equations describing these regularisations are given below.
+- _**Preventing Overfitting**_ [[Here]((https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)]
+)]
+  - **L1 and L2 Regularizations**
 
-In most cases the use of L1 is preferable, because it reduces the weight values of less important features to zero, very often eliminating them completely from the calculations. In a way, it is a built-in mechanism for automatic featur selection. Moreover, L2 does not perform very well on datasets with a large number of outliers. The use of value squares results in the model minimizing the impact of outliers at the expense of more popular examples.
+    One of the first methods we should try when we need to reduce overfitting is regularisation. It involves adding an extra element to the loss function, which punishes our model for being too complex or, in simple words, for using too high values in the weight matrix. This way we try to limit its flexibility, but also encourage it to build solutions based on multiple features. Two popular versions of this method are L1 - Least Absolute Deviations (LAD) and L2 - Least Square Errors (LS). Equations describing these regularisations are given below.
 
-![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/L1_L2_Regularisation.gif)
+    In most cases the use of L1 is preferable, because it reduces the weight values of less important features to zero, very often eliminating them completely from the calculations. In a way, it is a built-in mechanism for automatic featur selection. Moreover, L2 does not perform very well on datasets with a large number of outliers. The use of value squares results in the model minimizing the impact of outliers at the expense of more popular examples.
 
-- **Lambda factor and its effect**
+         ![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/L1_L2_Regularisation.gif)
 
+  - **Lambda factor and its effect**
+ 
+    In the previously mentioned formulas for regularisation in both versions of L1 and L2, I introduced hyperparameter λ — also called regularization rate. When choosing its value we try to hit the sweet spot between simplicity of our model and fitting it to the training data. Increasing the λ value also increases the regularisation effects.
+    n Figure 4. we can immediately notice that the planes obtained for the model without regulation, and models with a very low λ coefficient value are very “turbulent”. There are many peaks with significant values. After applying L2 regularization with higher hyperparameter value, the graph is flattening. Finally, we can see that setting the lambda value around 0.1 or 1 causes a drastic decrease in the value of weights in our model. I encourage you to check the source code used to create these visualizations.
+    
+    ![]((https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/Regularisation.gif)
