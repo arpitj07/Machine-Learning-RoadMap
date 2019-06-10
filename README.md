@@ -118,3 +118,11 @@ In order to produce intelligent programs (also called agents), reinforcement lea
     n Figure 4. we can immediately notice that the planes obtained for the model without regulation, and models with a very low λ coefficient value are very “turbulent”. There are many peaks with significant values. After applying L2 regularization with higher hyperparameter value, the graph is flattening. Finally, we can see that setting the lambda value around 0.1 or 1 causes a drastic decrease in the value of weights in our model. I encourage you to check the source code used to create these visualizations.
     
     ![]((https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/Regularisation.gif)
+    
+  - **Drop Out**
+    
+    Another very popular method of regularization of neural networks is dropout. This idea is actually very simple - every unit of our neural network (except those belonging to the output layer) is given the probability p of being temporarily ignored in calculations. Hyper parameter p is called dropout rate and very often its default value is set to 0.5. Then, in each iteration, we randomly select the neurons that we drop according to the assigned probability. As a result, each time we work with a smaller neural network. The visualization below shows an example of a neural network subjected to a dropout. We can see how in each iteration random neurons from second and fourth layer are deactivated.
+    
+    ![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/DropOut.gif)
+    
+    The effectiveness of this method is quite surprising and counterintuitive. After all, in the real world, the productivity of the factory will not increase if its manager, every day, randomly selects employees and sends them home. Let us look at this problem from the perspective of a single neuron. Since in each iteration, any input value can be randomly eliminated, the neuron tries to balance the risk and not to favour any of the features. As a result, the values in the weight matrix become more evenly distributed. The model wants to avoid a situation in which the solution it proposes, will no longer make sense, because it no longer has information flowing from an inactive feature.
