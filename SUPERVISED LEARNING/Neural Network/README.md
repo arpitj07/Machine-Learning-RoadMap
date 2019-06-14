@@ -36,3 +36,10 @@
     ![](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/Images/EarlyStopping.gif)
   
     In practice, it is very convenient to sample our model every few iterations and check how well it works with our validation set. Every model that performs better than all the previous models is saved. We also set a limit, i.e. the maximum number of iterations during which no progress will be recorded. When this value is exceeded, the learning is stopped. Although early stopping allows for a significant improvement in the performance of our model, in practice, its application greatly complicates the process of optimization of our model. It is simply difficult to combine with other regular techniques.
+
+
+
+- **Useful Links**
+  - [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
+  - [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
+  - [How to Normalize, Center, and Standardize Images With the ImageDataGenerator in Keras](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
