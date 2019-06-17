@@ -56,3 +56,4 @@ Machine learning (ML) is the scientific study of algorithms and statistical mode
   - [What is the difference between conditional probability and joint probability?
 ](https://qr.ae/TWh5Cd)
   - [What is the difference between a parametric learning algorithm and a nonparametric learning algorithm?](https://sebastianraschka.com/faq/docs/parametric_vs_nonparametric.html)
+  - [Cross Validation and Grid Search for Model Selection in Python](https://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/)
