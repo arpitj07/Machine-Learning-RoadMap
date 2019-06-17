@@ -10,11 +10,11 @@ Machine learning (ML) is the scientific study of algorithms and statistical mode
  </summary>
   
   - [**Supervised learning**](https://github.com/arpitj07/Machine-Learning-Journey/blob/master/README.md#supervised-learning)
-    - Nearest Neighbor
-    - Naive Bayes
-    - Decision Trees
+    - [Nearest Neighbor]()
+    - [Naive Bayes](https://github.com/arpitj07/Machine-Learning-Journey/tree/master/SUPERVISED%20LEARNING/Naive%20Bayes)
+    - [Decision Trees]()
     - Linear Regression
-    - Support Vector Machines (SVM)
+    - [Support Vector Machines]()
     - Neural Networks
     
     
