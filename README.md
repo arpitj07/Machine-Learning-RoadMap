@@ -53,4 +53,5 @@ Machine learning (ML) is the scientific study of algorithms and statistical mode
 
 - **USEFUL LINKS**
  - [Choosing a ML classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
- - []()
+ - [What is the difference between conditional probability and joint probability?
+](https://qr.ae/TWh5Cd)
