@@ -2,6 +2,9 @@
 # Convolutional Neural Network
 
 **Reading List**
+  
+  - **[Types of Filters](https://lodev.org/cgtutor/filtering.html)**
+  
   - [Finding the Cost Function of Neural Networks](https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-490dc1f3cfd9)
   - [Improving Performance of Convolutional Neural Network!](https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7)
   
