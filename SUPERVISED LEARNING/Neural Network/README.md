@@ -5,9 +5,12 @@
 ### Loss Functions
 
 <details>
+  
   [](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 
 </details>
+
+
 ### Optimizers 
 
 <details>
@@ -55,6 +58,8 @@
 </details>
 
 - **Useful Links**
+  - [what does the bias do in a neural network](https://stats.stackexchange.com/questions/185911/why-are-bias-nodes-used-in-neural-networks)
+  - [how bias error related to bias node](https://stats.stackexchange.com/questions/130158/backpropagation-bias-nodes-and-error)
   - [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
   - [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
   - [How to Normalize, Center, and Standardize Images With the ImageDataGenerator in Keras](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
