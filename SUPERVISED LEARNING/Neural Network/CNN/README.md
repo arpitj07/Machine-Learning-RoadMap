@@ -1,14 +1,12 @@
 
 # Convolutional Neural Network
 
-**Reading List**
+   **Reading List**
   
-  - **[Types of Filters](https://lodev.org/cgtutor/filtering.html)**
-  
-  - [Finding the Cost Function of Neural Networks](https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-490dc1f3cfd9)
-  - [Improving Performance of Convolutional Neural Network!](https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7)
-  
-  - [Forward And Backpropagation in Convolutional Neural Network](https://medium.com/@2017csm1006/forward-and-backpropagation-in-convolutional-neural-network-4dfa96d7b37e)
+   - [Types of Filters](https://lodev.org/cgtutor/filtering.html)
+   - [Finding the Cost Function of Neural Networks](https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-490dc1f3cfd9)
+   - [Improving Performance of Convolutional Neural Network!](https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7)
+   - [Forward And Backpropagation in Convolutional Neural Network](https://medium.com/@2017csm1006/forward-and-backpropagation-in-convolutional-neural-network-4dfa96d7b37e)
 
 ### Convolution
 
