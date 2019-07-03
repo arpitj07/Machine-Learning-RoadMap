@@ -2,7 +2,9 @@
 # Convolutional Neural Network
 
    **Reading List**
-  
+   
+   - [Image Processing in Python With Pillow](https://dzone.com/articles/image-processing-in-python-with-pillow?fromrel=true)
+   - [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
    - [Types of Filters](https://lodev.org/cgtutor/filtering.html)
    - [Finding the Cost Function of Neural Networks](https://towardsdatascience.com/step-by-step-the-math-behind-neural-networks-490dc1f3cfd9)
    - [Improving Performance of Convolutional Neural Network!](https://medium.com/@dipti.rohan.pawar/improving-performance-of-convolutional-neural-network-2ecfe0207de7)
