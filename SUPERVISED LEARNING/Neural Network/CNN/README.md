@@ -3,6 +3,7 @@
 
    **Reading List**
    
+   - [Create your own COCO-style datasets](https://patrickwasp.com/create-your-own-coco-style-dataset/)
    - [Image Processing in Python With Pillow](https://dzone.com/articles/image-processing-in-python-with-pillow?fromrel=true)
    - [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
    - [Types of Filters](https://lodev.org/cgtutor/filtering.html)
