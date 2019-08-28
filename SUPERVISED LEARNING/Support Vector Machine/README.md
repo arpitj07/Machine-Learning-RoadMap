@@ -14,3 +14,5 @@
 
    - [SVM- MATHEMATICS PART 2](https://www.svm-tutorial.com/2014/11/svm-understanding-math-part-2/)
    - [SVM- MATHEMATICS PART 3](https://www.svm-tutorial.com/2015/06/svm-understanding-math-part-3/)
+   - [What is a duality gap, and how is it used in machine learning?](https://qr.ae/TWyKYE)
+   - [What is the intuition behind margin in SVM?](https://qr.ae/TWyKFq)
