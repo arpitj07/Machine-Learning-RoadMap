@@ -17,3 +17,5 @@
    - [What is a duality gap, and how is it used in machine learning?](https://qr.ae/TWyKYE)
    - [What is the intuition behind margin in SVM?](https://qr.ae/TWyKFq)
    - [What are C and gamma with regards to a support vector machine?](https://qr.ae/TWKXsO)
+   
+   - [Is there a layman's explanation of SVM primal form?](https://qr.ae/TW4lZi)
