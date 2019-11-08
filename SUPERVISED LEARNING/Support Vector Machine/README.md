@@ -19,3 +19,6 @@
    - [What are C and gamma with regards to a support vector machine?](https://qr.ae/TWKXsO)
    
    - [Is there a layman's explanation of SVM primal form?](https://qr.ae/TW4lZi)
+   
+   - [SVM Primal Optimization and Dual Optimization. Under what cases one better than another?
+](https://stats.stackexchange.com/questions/319516/svm-primal-optimization-and-dual-optimization-under-what-cases-one-better-than#comment606613_319516)
