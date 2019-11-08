@@ -22,3 +22,9 @@
    
    - [SVM Primal Optimization and Dual Optimization. Under what cases one better than another?
 ](https://stats.stackexchange.com/questions/319516/svm-primal-optimization-and-dual-optimization-under-what-cases-one-better-than#comment606613_319516)
+
+   - [How do you transform an objective function for minimization problems from primal form to its dual form? What is a simple explanation for what the two forms mean?](https://qr.ae/TW4q2x)
+
+   - [What is a primal and a dual problem in support vector machines?](https://qr.ae/TW4qY2)
+   
+   - [Why is solving in the dual easier than solving in the primal? What advantages do we get from solving in the dual?](https://qr.ae/TW4qAX)
