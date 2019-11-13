@@ -63,3 +63,10 @@
   - [How to Avoid Overfitting in Deep Learning Neural Networks](https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/)
   - [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
   - [How to Normalize, Center, and Standardize Images With the ImageDataGenerator in Keras](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
+
+
+- **[BATCH NORMALISATION]**
+    
+    [How does Batch Normalization Help Optimization?](http://gradientscience.org/batchnorm/)
+    
+    [Batch Normalization and Internal Covariate Shift](https://medium.com/@SeoJaeDuk/archive-post-batch-normalization-and-internal-covariate-shift-1d47661d236f)
